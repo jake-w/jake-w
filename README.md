@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/jake-w/jake-w/blob/main/programming.gif">
+</p>
+
+<!--## Hi there 👋-->
 
 <!--
 **jake-w/jake-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
